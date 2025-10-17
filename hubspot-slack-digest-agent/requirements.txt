@@ -1,0 +1,2 @@
+python-dotenv>=1.0.0
+scalekit-sdk-python>=1.0.0
